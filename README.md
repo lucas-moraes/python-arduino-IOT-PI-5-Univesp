@@ -1,0 +1,7 @@
+- python
+- pip
+- set env (python3 -m venv env)
+- activate env (source env/bin/activate)
+- install packages (python3 -m pip3 install -r requeriments.txt)
+- add images in training folder
+- on terminal add one image for each profile
